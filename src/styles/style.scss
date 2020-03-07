@@ -1,0 +1,9 @@
+.button {padding: 20px 40px;font-size: 25px;display: inline;
+}
+
+.section{display: flex;flex-direction: column; justify-content: center;align-items:center;
+    .placeholder{ height: 400px;
+        img{width: 100%; height: 100%; object-fit: contain;}
+        margin-bottom: 30px;
+    }
+}
